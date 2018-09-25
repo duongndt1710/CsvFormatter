@@ -1,0 +1,14 @@
+C:\Visual Studio\C#\CsvFormatter\bin\Release\CsvFormatter.exe
+C:\Visual Studio\C#\CsvFormatter\bin\Release\CsvFormatter.pdb
+C:\Visual Studio\C#\CsvFormatter\obj\Release\CsvFormatter.Properties.Resources.resources
+C:\Visual Studio\C#\CsvFormatter\obj\Release\CsvFormatter.csproj.GenerateResource.Cache
+C:\Visual Studio\C#\CsvFormatter\obj\Release\CsvFormatter.exe
+C:\Visual Studio\C#\CsvFormatter\obj\Release\CsvFormatter.pdb
+C:\Duong\work\Jobs\MyDemo\CsvFormatter\bin\Release\CsvFormatter.exe
+C:\Duong\work\Jobs\MyDemo\CsvFormatter\bin\Release\CsvFormatter.pdb
+C:\Duong\work\Jobs\MyDemo\CsvFormatter\obj\Release\CsvFormatter.csprojAssemblyReference.cache
+C:\Duong\work\Jobs\MyDemo\CsvFormatter\obj\Release\CsvFormatter.Properties.Resources.resources
+C:\Duong\work\Jobs\MyDemo\CsvFormatter\obj\Release\CsvFormatter.csproj.GenerateResource.cache
+C:\Duong\work\Jobs\MyDemo\CsvFormatter\obj\Release\CsvFormatter.csproj.CoreCompileInputs.cache
+C:\Duong\work\Jobs\MyDemo\CsvFormatter\obj\Release\CsvFormatter.exe
+C:\Duong\work\Jobs\MyDemo\CsvFormatter\obj\Release\CsvFormatter.pdb

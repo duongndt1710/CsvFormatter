@@ -1,0 +1,38 @@
+23:14:43: Form Load Start
+23:14:45: BtnOpenInput Clicked
+23:15:13: Reading the Csv File = C:\Visual Studio\C#\CsvFormatter\Documents\0511-1114.csv
+23:15:14: BtnSaveOutput Clicked
+23:15:14: Processing the DataTable
+23:15:47: fncOutputFile -> C:\Visual Studio\C#\CsvFormatter\Documents\20170701231514.csv
+23:16:29: BtnOpenInput Clicked
+23:16:50: Reading the Csv File = C:\Visual Studio\C#\CsvFormatter\Documents\0511-1114.csv
+23:18:16: BtnSaveOutput Clicked
+23:18:22: Processing the DataTable
+23:19:23: Form Load Start
+23:19:25: BtnOpenInput Clicked
+23:20:07: Reading the Csv File = C:\Visual Studio\C#\CsvFormatter\Documents\0511-1114.csv
+23:20:08: BtnSaveOutput Clicked
+23:20:08: Processing the DataTable
+23:23:29: Form Load Start
+23:23:30: BtnOpenInput Clicked
+23:23:34: Reading the Csv File = C:\Visual Studio\C#\CsvFormatter\Documents\0511-1114.csv
+23:23:35: BtnSaveOutput Clicked
+23:23:35: Processing the DataTable
+23:23:43: fncOutputFile -> C:\Visual Studio\C#\CsvFormatter\Documents\20170701232340.csv
+23:24:15: BtnSaveOutput Clicked
+23:24:15: Processing the DataTable
+23:24:22: BtnSaveOutput Clicked
+23:24:22: Processing the DataTable
+23:27:11: Form Load Start
+23:27:12: BtnOpenInput Clicked
+23:27:17: Reading the Csv File = C:\Visual Studio\C#\CsvFormatter\Documents\0511-1114.csv
+23:27:18: BtnSaveOutput Clicked
+23:27:18: Processing the DataTable
+23:27:27: fncOutputFile -> C:\Visual Studio\C#\CsvFormatter\Documents\20170701232724.csv
+23:34:46: Form Load Start
+23:34:47: BtnOpenInput Clicked
+23:34:56: Reading the Csv File = C:\Visual Studio\C#\CsvFormatter\Documents\0511-1114.csv
+23:34:57: BtnSaveOutput Clicked
+23:34:57: Processing the DataTable
+23:35:03: fncOutputFile -> C:\Visual Studio\C#\CsvFormatter\Documents\20170701233457.csv
+23:35:39: Form is closing

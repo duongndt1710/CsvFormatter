@@ -1,0 +1,10 @@
+00:47:19: Form Load Start
+00:49:18: BtnSetting Clicked
+00:49:38: Reading the Csv File = C:\Visual Studio\C#\CsvFormatter\Documents\0511-1114.csv
+00:49:39: BtnSetting Clicked
+00:49:39: Processing the DataTable
+00:54:01: Form is closing
+01:00:26: Form Load Start
+01:00:28: BtnSetting Clicked
+01:00:39: Cancel opening file
+01:00:41: Form is closing

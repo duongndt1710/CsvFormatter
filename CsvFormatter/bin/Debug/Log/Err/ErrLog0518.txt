@@ -1,0 +1,4 @@
+20:53:13: System.ArgumentException: This row already belongs to this table.
+   at System.Data.DataTable.InsertRow(DataRow row, Int64 proposedID, Int32 pos, Boolean fireEvent)
+   at System.Data.DataRowCollection.Add(DataRow row)
+   at CsvFormatter.MClass.clsCsv.fncReFormatTheDataTable() in c:\Visual Studio\C#\CsvFormatter\MClass\clsCsv.cs:line 288

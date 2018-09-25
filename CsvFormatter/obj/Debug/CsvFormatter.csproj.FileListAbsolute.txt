@@ -1,0 +1,7 @@
+C:\Visual Studio\C#\CsvFormatter\bin\Debug\CsvFormatter.exe
+C:\Visual Studio\C#\CsvFormatter\bin\Debug\CsvFormatter.pdb
+C:\Visual Studio\C#\CsvFormatter\obj\Debug\CsvFormatter.csprojResolveAssemblyReference.cache
+C:\Visual Studio\C#\CsvFormatter\obj\Debug\CsvFormatter.Properties.Resources.resources
+C:\Visual Studio\C#\CsvFormatter\obj\Debug\CsvFormatter.csproj.GenerateResource.Cache
+C:\Visual Studio\C#\CsvFormatter\obj\Debug\CsvFormatter.exe
+C:\Visual Studio\C#\CsvFormatter\obj\Debug\CsvFormatter.pdb

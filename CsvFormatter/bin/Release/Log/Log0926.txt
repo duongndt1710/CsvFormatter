@@ -1,0 +1,8 @@
+08:31:32: Form Load Start
+08:31:33: BtnOpenInput Clicked
+08:31:52: Reading the Csv File = C:\Duong\work\Jobs\MyDemo\CsvFormatter\Documents\0528-1413.csv
+08:31:53: BtnSaveOutput Clicked
+08:31:53: Processing the DataTable
+08:31:57: fncOutputFile -> C:\Duong\work\Jobs\MyDemo\CsvFormatter\Documents\20180926083153.csv
+08:32:11: BtnSetting Clicked
+08:32:16: Form is closing

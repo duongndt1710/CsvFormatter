@@ -1,0 +1,7 @@
+14:15:23: Form Load Start
+14:15:43: BtnOpenInput Clicked
+14:17:06: Reading the Csv File = C:\DuongProduct\Visual Studio\C#\CsvFormatter\Documents\0511-1114.csv
+14:17:09: BtnSaveOutput Clicked
+14:17:09: Processing the DataTable
+14:17:13: fncOutputFile -> C:\DuongProduct\Visual Studio\C#\CsvFormatter\Documents\20180602141709.csv
+14:53:18: Form is closing

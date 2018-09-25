@@ -1,0 +1,255 @@
+20:30:32: Form Load Start
+20:30:35: BtnSetting Clicked
+20:30:52: Cancel opening file
+20:31:02: BtnSetting Clicked
+20:31:08: Reading the Csv File = C:\Visual Studio\C#\CsvFormatter\Documents\0511-1114.csv
+20:31:11: Form is closing
+20:32:50: Form Load Start
+20:32:54: BtnSetting Clicked
+20:32:55: Cancel opening file
+20:33:05: BtnSetting Clicked
+20:33:12: Reading the Csv File = C:\Visual Studio\C#\CsvFormatter\Documents\0511-1114.csv
+20:33:17: BtnSetting Clicked
+20:33:17: Processing the DataTable
+20:33:17: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/11 10:15' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/11 10:15' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/11 10:13' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/11 10:13' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/11 9:55' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/11 9:56' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 23:32' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 23:33' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 22:24' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 22:32' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 22:31' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 22:31' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 22:00' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 22:19' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 22:02' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 22:09' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 21:21' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 21:22' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 20:57' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 20:58' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 17:03' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 17:04' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 5:55' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 15:47' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 11:00' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 15:21' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 9:37' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 10:01' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 0:00' , 'yyyy-MM-dd HH:mm:ss'
+20:33:17: fncCnvDateOutputByFormat -> '2017/5/10 0:00' , 'yyyy-MM-dd HH:mm:ss'
+20:36:50: Form Load Start
+20:36:55: BtnSetting Clicked
+20:36:57: Cancel opening file
+20:37:01: BtnSetting Clicked
+20:37:07: Reading the Csv File = C:\Visual Studio\C#\CsvFormatter\Documents\0511-1114.csv
+20:37:11: BtnSetting Clicked
+20:37:11: Processing the DataTable
+20:39:49: Form Load Start
+20:39:50: BtnSetting Clicked
+20:39:58: Cancel opening file
+20:40:02: BtnSetting Clicked
+20:40:05: Reading the Csv File = C:\Visual Studio\C#\CsvFormatter\Documents\0511-1114.csv
+20:40:08: BtnSetting Clicked
+20:40:08: Processing the DataTable
+20:41:24: Form Load Start
+20:41:26: BtnSetting Clicked
+20:41:28: Cancel opening file
+20:41:29: BtnSetting Clicked
+20:41:29: Processing the DataTable
+20:41:29: There is no data to be processed
+20:41:33: BtnSetting Clicked
+20:41:33: Processing the DataTable
+20:41:33: There is no data to be processed
+20:41:34: BtnSetting Clicked
+20:41:34: Processing the DataTable
+20:41:34: There is no data to be processed
+20:41:34: BtnSetting Clicked
+20:41:34: Processing the DataTable
+20:41:34: There is no data to be processed
+20:41:34: BtnSetting Clicked
+20:41:34: Processing the DataTable
+20:41:34: There is no data to be processed
+20:41:34: BtnSetting Clicked
+20:41:34: Processing the DataTable
+20:41:34: There is no data to be processed
+20:41:34: BtnSetting Clicked
+20:41:34: Processing the DataTable
+20:41:34: There is no data to be processed
+20:41:34: BtnSetting Clicked
+20:41:34: Processing the DataTable
+20:41:34: There is no data to be processed
+20:41:34: BtnSetting Clicked
+20:41:34: Processing the DataTable
+20:41:34: There is no data to be processed
+20:41:35: BtnSetting Clicked
+20:41:35: Processing the DataTable
+20:41:35: There is no data to be processed
+20:41:35: BtnSetting Clicked
+20:41:35: Processing the DataTable
+20:41:35: There is no data to be processed
+20:41:35: BtnSetting Clicked
+20:41:35: Processing the DataTable
+20:41:35: There is no data to be processed
+20:41:35: BtnSetting Clicked
+20:41:35: Processing the DataTable
+20:41:35: There is no data to be processed
+20:41:35: BtnSetting Clicked
+20:41:35: Processing the DataTable
+20:41:35: There is no data to be processed
+20:41:36: BtnSetting Clicked
+20:41:36: Processing the DataTable
+20:41:36: There is no data to be processed
+20:41:36: BtnSetting Clicked
+20:41:36: Processing the DataTable
+20:41:36: There is no data to be processed
+20:41:36: BtnSetting Clicked
+20:41:36: Processing the DataTable
+20:41:36: There is no data to be processed
+20:41:36: BtnSetting Clicked
+20:41:36: Processing the DataTable
+20:41:36: There is no data to be processed
+20:41:36: BtnSetting Clicked
+20:41:36: Processing the DataTable
+20:41:36: There is no data to be processed
+20:41:37: BtnSetting Clicked
+20:41:37: Processing the DataTable
+20:41:37: There is no data to be processed
+20:41:37: BtnSetting Clicked
+20:41:37: Processing the DataTable
+20:41:37: There is no data to be processed
+20:41:37: BtnSetting Clicked
+20:41:37: Processing the DataTable
+20:41:37: There is no data to be processed
+20:41:37: BtnSetting Clicked
+20:41:37: Processing the DataTable
+20:41:37: There is no data to be processed
+20:41:37: BtnSetting Clicked
+20:41:37: Processing the DataTable
+20:41:37: There is no data to be processed
+20:41:37: BtnSetting Clicked
+20:41:37: Processing the DataTable
+20:41:37: There is no data to be processed
+20:41:38: BtnSetting Clicked
+20:41:38: Processing the DataTable
+20:41:38: There is no data to be processed
+20:41:38: BtnSetting Clicked
+20:41:38: Processing the DataTable
+20:41:38: There is no data to be processed
+20:41:45: BtnSetting Clicked
+20:41:50: Reading the Csv File = C:\Visual Studio\C#\CsvFormatter\Documents\0511-1114.csv
+20:41:51: BtnSetting Clicked
+20:41:51: Processing the DataTable
+20:52:55: Form Load Start
+20:52:58: BtnSetting Clicked
+20:53:04: Reading the Csv File = C:\Visual Studio\C#\CsvFormatter\Documents\0511-1114.csv
+20:53:06: BtnSetting Clicked
+20:53:06: Processing the DataTable
+20:53:44: BtnSetting Clicked
+20:53:44: Processing the DataTable
+20:54:21: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:54:22: fncCnvDateOutputByFormat -> '2017/5/11 10:15' , 'yyyy-MM-dd HH:mm:ss'
+20:54:22: fncCnvDateOutputByFormat -> '2017/5/11 10:15' , 'yyyy-MM-dd HH:mm:ss'
+20:54:22: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:54:22: fncCnvDateOutputByFormat -> '2017/5/11 10:13' , 'yyyy-MM-dd HH:mm:ss'
+20:54:22: fncCnvDateOutputByFormat -> '2017/5/11 10:13' , 'yyyy-MM-dd HH:mm:ss'
+20:54:23: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:54:23: fncCnvDateOutputByFormat -> '2017/5/11 9:55' , 'yyyy-MM-dd HH:mm:ss'
+20:54:23: fncCnvDateOutputByFormat -> '2017/5/11 9:56' , 'yyyy-MM-dd HH:mm:ss'
+20:54:24: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:54:24: fncCnvDateOutputByFormat -> '2017/5/10 23:32' , 'yyyy-MM-dd HH:mm:ss'
+20:54:24: fncCnvDateOutputByFormat -> '2017/5/10 23:33' , 'yyyy-MM-dd HH:mm:ss'
+20:54:25: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:54:25: fncCnvDateOutputByFormat -> '2017/5/10 22:24' , 'yyyy-MM-dd HH:mm:ss'
+20:54:25: fncCnvDateOutputByFormat -> '2017/5/10 22:32' , 'yyyy-MM-dd HH:mm:ss'
+20:54:25: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:54:25: fncCnvDateOutputByFormat -> '2017/5/10 22:31' , 'yyyy-MM-dd HH:mm:ss'
+20:54:25: fncCnvDateOutputByFormat -> '2017/5/10 22:31' , 'yyyy-MM-dd HH:mm:ss'
+20:54:26: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:54:26: fncCnvDateOutputByFormat -> '2017/5/10 22:00' , 'yyyy-MM-dd HH:mm:ss'
+20:54:26: fncCnvDateOutputByFormat -> '2017/5/10 22:19' , 'yyyy-MM-dd HH:mm:ss'
+20:54:27: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:54:27: fncCnvDateOutputByFormat -> '2017/5/10 22:02' , 'yyyy-MM-dd HH:mm:ss'
+20:54:27: fncCnvDateOutputByFormat -> '2017/5/10 22:09' , 'yyyy-MM-dd HH:mm:ss'
+20:54:27: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:54:27: fncCnvDateOutputByFormat -> '2017/5/10 21:21' , 'yyyy-MM-dd HH:mm:ss'
+20:54:27: fncCnvDateOutputByFormat -> '2017/5/10 21:22' , 'yyyy-MM-dd HH:mm:ss'
+20:54:28: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:54:28: fncCnvDateOutputByFormat -> '2017/5/10 20:57' , 'yyyy-MM-dd HH:mm:ss'
+20:54:28: fncCnvDateOutputByFormat -> '2017/5/10 20:58' , 'yyyy-MM-dd HH:mm:ss'
+20:54:28: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:54:28: fncCnvDateOutputByFormat -> '2017/5/10 17:03' , 'yyyy-MM-dd HH:mm:ss'
+20:54:28: fncCnvDateOutputByFormat -> '2017/5/10 17:04' , 'yyyy-MM-dd HH:mm:ss'
+20:54:29: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:54:29: fncCnvDateOutputByFormat -> '2017/5/10 5:55' , 'yyyy-MM-dd HH:mm:ss'
+20:54:29: fncCnvDateOutputByFormat -> '2017/5/10 15:47' , 'yyyy-MM-dd HH:mm:ss'
+20:54:29: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:54:29: fncCnvDateOutputByFormat -> '2017/5/10 11:00' , 'yyyy-MM-dd HH:mm:ss'
+20:54:29: fncCnvDateOutputByFormat -> '2017/5/10 15:21' , 'yyyy-MM-dd HH:mm:ss'
+20:54:30: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:54:30: fncCnvDateOutputByFormat -> '2017/5/10 9:37' , 'yyyy-MM-dd HH:mm:ss'
+20:54:30: fncCnvDateOutputByFormat -> '2017/5/10 10:01' , 'yyyy-MM-dd HH:mm:ss'
+20:54:30: fncCnvDateOutputByFormat -> '2017/5/10 0:00' , 'yyyy-MM-dd HH:mm:ss'
+20:54:30: fncCnvDateOutputByFormat -> '2017/5/10 0:00' , 'yyyy-MM-dd HH:mm:ss'
+20:55:20: BtnSetting Clicked
+20:55:20: Processing the DataTable
+20:55:27: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/11 10:15' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/11 10:15' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/11 10:13' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/11 10:13' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/11 9:55' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/11 9:56' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/10 23:32' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/10 23:33' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/10 22:24' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/10 22:32' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/10 22:31' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/10 22:31' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/10 22:00' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/10 22:19' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/10 22:02' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/10 22:09' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/10 21:21' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/10 21:22' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/10 20:57' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/10 20:58' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/10 17:03' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/10 17:04' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/10 5:55' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/10 15:47' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/10 11:00' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/10 15:21' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncGetStringByRemove -> 'USD/JPY' , '/'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/10 9:37' , 'yyyy-MM-dd HH:mm:ss'
+20:55:27: fncCnvDateOutputByFormat -> '2017/5/10 10:01' , 'yyyy-MM-dd HH:mm:ss'
+20:55:34: fncCnvDateOutputByFormat -> '2017/5/10 0:00' , 'yyyy-MM-dd HH:mm:ss'

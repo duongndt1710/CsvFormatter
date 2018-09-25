@@ -1,0 +1,24 @@
+11:03:02: Form Load Start
+11:03:06: Form is closing
+11:08:49: Form Load Start
+11:08:50: BtnSetting Clicked
+11:08:57: Form is closing
+11:10:21: Form Load Start
+11:10:26: BtnSetting Clicked
+11:10:52: Form is closing
+11:15:31: Form Load Start
+11:15:32: BtnSetting Clicked
+11:15:36: Form is closing
+11:19:53: Form Load Start
+11:19:55: BtnSetting Clicked
+16:57:09: Form Load Start
+16:57:21: BtnSetting Clicked
+16:57:48: Reading the Csv File = C:\Visual Studio\C#\CsvFormatter\Documents\0511-1114.csv
+16:58:37: BtnSetting Clicked
+16:59:03: Reading the Csv File = C:\Visual Studio\C#\CsvFormatter\Documents\0511-1114.csv
+17:02:58: Form Load Start
+17:03:08: BtnSetting Clicked
+17:03:21: Reading the Csv File = C:\Visual Studio\C#\CsvFormatter\Documents\0511-1114.csv
+17:06:06: BtnSetting Clicked
+17:06:09: Cancel opening file
+17:06:10: Form is closing

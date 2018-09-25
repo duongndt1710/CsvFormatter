@@ -1,0 +1,12 @@
+23:15:14: System.IndexOutOfRangeException: Cannot find column 5.
+   at System.Data.DataColumnCollection.get_Item(Int32 index)
+   at System.Data.DataRow.set_Item(Int32 columnIndex, Object value)
+   at CsvFormatter.MClass.clsCsv.fncReFormatTheDataTable() in c:\Visual Studio\C#\CsvFormatter\MClass\clsCsv.cs:line 275
+23:23:40: System.ArgumentException: Column 'OpenVal' does not belong to table .
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at CsvFormatter.MClass.clsCsv.fncReFormatTheDataTable() in c:\Visual Studio\C#\CsvFormatter\MClass\clsCsv.cs:line 318
+23:24:15: System.ArgumentException: Column 'OpenVal' does not belong to table .
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at CsvFormatter.MClass.clsCsv.fncReFormatTheDataTable() in c:\Visual Studio\C#\CsvFormatter\MClass\clsCsv.cs:line 318
